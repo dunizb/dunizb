@@ -10,6 +10,9 @@
 
 ### 我的链接 ↗
 
-[🔴 博客](https://zhangbing.site) | [💰 小铺](https://store.zhangbing.site) | [💡 小码](https://store.zhangbing.site) | [📋 豆列](https://www.douban.com/people/dunish/doulists/all) | [:book: 读过的书](https://book.douban.com/people/dunish/collect)
+[🔴 博客](https://zhangbing.site) · [💰 小铺](https://store.zhangbing.site) · [💡 小码](https://store.zhangbing.site) · [📋 豆列](https://www.douban.com/people/dunish/doulists/all) · [:book: 读过的书](https://book.douban.com/people/dunish/collect) · [思否](https://zhangbing.site/img/sf.26b6b922.svg) · [掘金](https://juejin.im/user/289926798645575)
 
-<img src="http://myimgcloud.oss-cn-hangzhou.aliyuncs.com/subscribe2.png" style="width:320px" alt="微信公众号" />
+|微信公众号|头条号|
+|:----:|:-----:|
+|<img src="http://myimgcloud.oss-cn-hangzhou.aliyuncs.com/subscribe2.png" width="370" alt="微信公众号" />|<img src="https://gitee.com/dunizb/cloudimg/raw/jsdelivr/toutiao-290x290.jpeg" width="218" alt="头条号" />|
+
