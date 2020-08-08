@@ -8,9 +8,20 @@
 ![Github Stars](https://github-readme-stats.vercel.app/api?username=dunizb&show_icons=true&hide=contribs)
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=dunizb&layout=compact)
 
-### 我的链接 ↗
+### 最新文章
 
-[🔴 博客](https://zhangbing.site) · [💰 小铺](https://store.zhangbing.site) · [💡 小码](https://store.zhangbing.site) · [📋 豆列](https://www.douban.com/people/dunish/doulists/all) · [:book: 读过的书](https://book.douban.com/people/dunish/collect) · [思否](https://zhangbing.site/img/sf.26b6b922.svg) · [掘金](https://juejin.im/user/289926798645575)
+建设中...
+
+### 我的站点 📍
+
+- [🔴 博客](https://zhangbing.site)：个人博客、实验田
+- [💰 小铺](https://store.zhangbing.site)：个人闲置书籍出售、课程返现、软件激活码
+- [💡 小码](https://store.zhangbing.site)：代码实验田
+- [📋 豆列](https://www.douban.com/people/dunish/doulists/all)：会标记看过的书和电影，创建了一些豆列，有兴趣可以看看 
+- [📚 读过的书](https://book.douban.com/people/dunish/collect)：看过的书籍都会标记于此
+- [⚓ 思否](https://zhangbing.site/img/sf.26b6b922.svg)：Segmentfault是目前最喜欢的技术社区，界面美观简洁
+- [⚓ 掘金](https://juejin.im/user/289926798645575)
+- 📍 足迹：建设中...
 
 |微信公众号|头条号|
 |:----:|:-----:|
