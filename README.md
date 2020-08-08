@@ -4,13 +4,16 @@
 - 🌱 我目前正在学习小程序开发、uni-app、Flutter
 - 👯 我正在寻找独立设计师合作
 - 📫 如何联系我：微信（dunizb）
+- 🚴 喜欢打桌球、麻将，水平菜鸡，浙江省杭州市西湖区的朋友可以一起玩啊
 
 ![Github Stars](https://github-readme-stats.vercel.app/api?username=dunizb&show_icons=true&hide=contribs)
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=dunizb&layout=compact)
 
-### 最新文章
+### 最新文章 📄
 
 建设中...
+
+
 
 ### 我的站点 📍
 
