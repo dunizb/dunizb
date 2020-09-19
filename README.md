@@ -26,9 +26,9 @@
 [⚓ 掘金主页](https://juejin.im/user/289926798645575)，掘金优秀作者  
 📍 足迹：建设中...
 
-|微信公众号|头条号|
-|:----:|:-----:|
-|<img src="http://myimgcloud.oss-cn-hangzhou.aliyuncs.com/subscribe2.png" width="370" alt="微信公众号" />|<img src="https://gitee.com/dunizb/cloudimg/raw/jsdelivr/toutiao-290x290.jpeg" width="218" alt="头条号" />|
+|微信公众号|头条号| 小商店 |
+|:----:|:-----:|:-------:|
+|<img src="http://myimgcloud.oss-cn-hangzhou.aliyuncs.com/subscribe2.png" width="370" alt="微信公众号" />|<img src="https://gitee.com/dunizb/cloudimg/raw/jsdelivr/toutiao-290x290.jpeg" width="218" alt="头条号" />| <img src="http://myimgcloud.oss-cn-hangzhou.aliyuncs.com/blogAssert/wechat-mini-store.jpeg" width="218" alt="小商店" /> |
 
 ### 技能 ✅
 
