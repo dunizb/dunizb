@@ -26,9 +26,9 @@
 [⚓ 掘金主页](https://juejin.im/user/289926798645575)，掘金优秀作者  
 📍 足迹：建设中...
 
-|微信公众号|小程序| 小商店 |
-|:----:|:-----:|:-------:|
-|<img src="http://myimgcloud.oss-cn-hangzhou.aliyuncs.com/subscribe2.png" width="370" alt="微信公众号" />|<img src="http://myimgcloud.oss-cn-hangzhou.aliyuncs.com/202101/Programming-calendar-wxapp/1.png" width="218" alt="编程日历小程序" />| <img src="http://myimgcloud.oss-cn-hangzhou.aliyuncs.com/blogAssert/wechat-mini-store.jpeg" width="218" alt="小商店" /> |
+|微信公众号| 小商店 |
+|:----:|:-------:|
+|<img src="http://myimgcloud.oss-cn-hangzhou.aliyuncs.com/subscribe2.png" width="370" alt="微信公众号" />| <img src="http://myimgcloud.oss-cn-hangzhou.aliyuncs.com/blogAssert/wechat-mini-store.jpeg" width="218" alt="小商店" /> |
 
 ### 技能 ✅
 
