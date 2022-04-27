@@ -11,12 +11,9 @@
 
 ### 公告 🎉
 
+[终于！我的第一个产品：集美美图上架了，小而美的美女壁纸精选 APP](https://mp.weixin.qq.com/s/rpm-BWiAbcAP2OWv0BS_jw)，现在已经发布iOS版，可App Store搜索、Android版，Android版以发布小米、华为、360、酷安、百度应用市场。[Android版本地分发地址](https://www.pgyer.com/jimei-android)
+
 <img src="https://s2.loli.net/2022/03/21/GvZEIwcpFR1Ds8B.png" width="500" alt="集美美图APP" />
-
-[终于！我的第一个产品：集美美图上架了，小而美的美女壁纸精选 APP](https://mp.weixin.qq.com/s/rpm-BWiAbcAP2OWv0BS_jw)
-
-[Android版分发地址](https://www.pgyer.com/jimei-android)
-
 
 
 ### 我的站点 📍
