@@ -18,7 +18,7 @@
 
 ### 我的站点 📍
 
-[🔴 主页](https://mo.run/zhangbing)：网络主页  
+[🔴 主页](https://mo.run/zhangzhang)：网络主页  
 [💡 小码](https://coding.zhangbingdev.com)：代码实验田  
 [📋 豆列](https://www.douban.com/people/dunish/doulists/all)：会标记看过的书和电影，创建了一些豆列，有兴趣可以看看   
 [📚 读过的书](https://book.douban.com/people/dunish/collect)：看过的书籍都会标记于此  
