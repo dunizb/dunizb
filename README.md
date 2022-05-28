@@ -19,7 +19,7 @@
 <img src="https://s2.loli.net/2022/03/21/GvZEIwcpFR1Ds8B.png" width="500" alt="集美美图APP" />
 
 
-### 我的站点 📍
+### 📍 我的站点
 
 [🔴 主页](https://mo.run/zhangzhang)：网络主页  
 [💡 小码](https://coding.zhangbingdev.com)：代码实验田  
@@ -31,6 +31,6 @@
 
 <img src="http://myimgcloud.oss-cn-hangzhou.aliyuncs.com/subscribe2.png" width="370" alt="微信公众号" />
 
-### 技能 ✅
+### ✅ 技能
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,vite,webpack,react,flutter,dart,nodejs,md,ts,jquery,mysql,vscode)](https://skillicons.dev)
