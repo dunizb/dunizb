@@ -11,9 +11,9 @@
 
 ### 🎉 公告：我的首款独立开发产品上线了
 
-集美美图-每日高清美女壁纸，现在已经发布iOS版，可App Store搜索、Android版，Android版以发布小米、华为、360、酷安、百度应用市场。[APP官网](https://jimeiapp.zhangbingdev.com)
+集美美图-每日高清美女壁纸，现在已经发布iOS版，可App Store搜索、Android版，Android版以发布小米、华为、360、酷安、百度应用市场。[APP官网](https://jmmt.mmkj.tech)
 
-<img src="https://www.hualigs.cn/image/6353a09be0a07.jpg" width="500" alt="集美美图APP" />
+<img src="https://s2.xptou.com/2023/05/25/646f0805dd7b7.png" width="500" alt="集美美图APP" />
 
 
 ### 📍 我的站点
